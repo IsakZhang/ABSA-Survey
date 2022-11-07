@@ -139,6 +139,7 @@ For more details, you can check Sec 2.4 of our survey paper. Here are some direc
 - ACOS: https://github.com/NUSTM/ACOS
 - ABSA-QUAD: https://github.com/IsakZhang/ABSA-QUAD
 - Lasted: https://github.com/GeneZC/StructBias
+- AdvABSA: https://github.com/GeneZC/advABSA
 
 ### Useful Repos
 - https://github.com/songyouwei/ABSA-PyTorch: Aspect Based Sentiment Analysis based on PyTorch Implementations. 
