@@ -106,6 +106,7 @@ Target-oriented Opinion Words Extraction (TOWE)
 - Aspect Sentiment Quad Prediction as Paraphrase Generation. (EMNLP 2021)
 - Seq2Path: Generating Sentiment Tuples as Paths of a Tree (ACL-Findings 2022)
 - Aspect-based Sentiment Analysis with Opinion Tree Generation. (IJCAI 2022)
+- Improving Aspect Sentiment Quad Prediction via Template-Order Data Augmentation (EMNLP 2022)
 
 
 ### Survey Papers
