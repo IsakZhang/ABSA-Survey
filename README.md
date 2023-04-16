@@ -94,6 +94,7 @@ Target-oriented Opinion Words Extraction (TOWE)
 - Learning Span-Level Interactions for Aspect Sentiment Triplet Extraction. (ACL 2021)
 - PASTE: A Tagging-Free Decoding Framework Using Pointer Networks for Aspect Sentiment Triplet Extraction. (EMNLP 2021)
 - Structural Bias For Aspect Sentiment Triplet Extraction. (COLING 2022)
+- [SynGen: A Syntactic Plug-and-play Module for Generative Aspect-based Sentiment Analysis](https://arxiv.org/abs/2302.13032) (ICASSP 2023)
 
 #### Aspect-Category-Sentiment Detection (ACSD) 
 - Aspect Based Sentiment Analysis into the Wild. (WASSA@EMNLP 2018) 
